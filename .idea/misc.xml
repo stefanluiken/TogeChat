@@ -5,20 +5,27 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.20277777777777778" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1345" />
+        <entry key="app/src/main/res/drawable/background_chat_input.xml" value="0.143" />
         <entry key="app/src/main/res/drawable/background_content_bottom.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_content_top.xml" value="0.143" />
         <entry key="app/src/main/res/drawable/background_icon.xml" value="0.125" />
         <entry key="app/src/main/res/drawable/background_image.xml" value="0.1345" />
         <entry key="app/src/main/res/drawable/background_input.xml" value="0.1345" />
+        <entry key="app/src/main/res/drawable/background_received_message.xml" value="0.143" />
+        <entry key="app/src/main/res/drawable/background_sent_message.xml" value="0.143" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
         <entry key="app/src/main/res/drawable/ic_round_add_24.xml" value="0.17" />
         <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1328647925033467" />
         <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.1478825136612022" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.24456521739130435" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2911270141601563" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.22447916666666667" />
         <entry key="app/src/main/res/layout/activity_users.xml" value="0.22" />
         <entry key="app/src/main/res/layout/background_content_bottom.xml" value="0.22087132725430597" />
+        <entry key="app/src/main/res/layout/item_container_received_message.xml" value="0.2617753623188406" />
+        <entry key="app/src/main/res/layout/item_container_sent_message.xml" value="0.2617753623188406" />
         <entry key="app/src/main/res/layout/item_container_user.xml" value="0.19907407407407407" />
       </map>
     </option>
