@@ -13,7 +13,8 @@
         android:theme="@style/Theme.TogeChat">
         <activity
             android:name=".activities.ChatActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
         <activity
             android:name=".activities.UsersActivity"
             android:exported="false" />
