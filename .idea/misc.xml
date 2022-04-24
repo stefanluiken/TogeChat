@@ -25,6 +25,7 @@
         <entry key="app/src/main/res/layout/activity_users.xml" value="0.22" />
         <entry key="app/src/main/res/layout/background_content_bottom.xml" value="0.22087132725430597" />
         <entry key="app/src/main/res/layout/item_container_received_message.xml" value="0.2617753623188406" />
+        <entry key="app/src/main/res/layout/item_container_recent_conversations.xml" value="0.1703125" />
         <entry key="app/src/main/res/layout/item_container_sent_message.xml" value="0.2617753623188406" />
         <entry key="app/src/main/res/layout/item_container_user.xml" value="0.19907407407407407" />
       </map>
