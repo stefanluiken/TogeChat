@@ -1,25 +1,20 @@
 package com.example.togechat.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-
 import com.example.adapters.UsersAdapter;
 import com.example.listeners.UserListener;
 import com.example.models.User;
-import com.example.togechat.R;
 import com.example.togechat.databinding.ActivityUsersBinding;
 import com.example.utilities.Constants;
 import com.example.utilities.PreferenceManager;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class UsersActivity extends AppCompatActivity implements UserListener {
+public class UsersActivity extends BaseActivity implements UserListener {
 
     private ActivityUsersBinding binding;
     private PreferenceManager preferenceManager;
