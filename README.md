@@ -20,7 +20,7 @@ Functionality
 Functionality
 --------------
 
-screenshot
+<a href="https://github.com/stefanluiken/TogeChat"><img src="https://github.com/stefanluiken/TogeChat/blob/main/togechat.jpg" title="TogeChat" alt="TogeChat"></a>
 
 Pre-requisites
 --------------
