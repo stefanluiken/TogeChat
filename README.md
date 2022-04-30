@@ -1,21 +1,21 @@
 TogeChat
 ===================================
 
-TogeChat is a chatApp for Android which is built entirely with Java and is powered by Google's Firebase.
+TogeChat is a chat app for Android which is built entirely with Java and is powered by Google's Firebase.
 
-TogeChat is open source, and provides the user with ready-to-use foundations for a chatApp that can be modified further according to the user's preferences.
-Firebase is used for the backend infrastructure, allowing for fast and scalable growth.
+TogeChat is open source, and provides the user with ready-to-use foundations for a chat app that can be modified further according to the user's preferences.
+Firebase is used for the backend infrastructure, allowing for fast and scalable growth possibilities.
 
-More info on the Firebase is available at: https://firebase.google.com
+More info on Firebase is available at: https://firebase.google.com.
 
 Functionality
 --------------
 
-- Registration / login
-- Backend scaling / security through Firebase
-- Chat with multiple users based on email registration
-- Notification services
-- Clean UI
+- Registration and login.
+- Backend scaling and security configuration through Firebase.
+- Chat with multiple users based on email registration.
+- Android notifications built-in.
+- Clean and smooth UI.
 
 Functionality
 --------------
