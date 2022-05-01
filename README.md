@@ -17,7 +17,7 @@ Functionality
 - Android notifications built-in.
 - Clean and smooth UI.
 
-Functionality
+Screenshots
 --------------
 
 <a href="https://github.com/stefanluiken/TogeChat"><img src="https://github.com/stefanluiken/TogeChat/blob/main/togechat.jpg" title="TogeChat" alt="TogeChat"></a>
